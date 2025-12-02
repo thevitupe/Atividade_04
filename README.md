@@ -77,15 +77,5 @@ Execute o script 03_dml_manipulacao.sql.
 
 Este script realiza atualizações (UPDATE) e exclusões (DELETE). ATENÇÃO: O comando de DELETE que tenta remover um fornecedor com produtos ativos é intencionalmente programado para falhar, demonstrando que as regras de FOREIGN KEY estão protegendo a integridade dos seus dados.
 
-🤝 Autor e Contato
-Aluno: [Ronaldo César ] Instituição: [Cruzeiro Do Sul ] Disciplina: Modelagem de Banco de Dados
-------
-[Link para o seu perfil do GitHub : https://github.com/Ronaldo94-cf
 
--------
-/ LinkedIn] https://www.linkedin.com/in/cesar-ronaldo-b78b04172/
 
--------
-
--- Seleciona o banco de dados
-USE loja_eletronicos;
